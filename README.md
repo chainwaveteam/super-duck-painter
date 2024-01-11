@@ -1,80 +1,40 @@
-# React-Typescript-Template
+# Vite project template by malinatrash!
+
+## Includes:
+1. React
+2. TypeScript
+3. Tailwind
+4.  Redux ToolKit
+5.  React-Router
+
+## Motivation
+I have always been terribly excited every time I create a new project from scratch to deal with the configuration of all libraries and modules. Therefore, I am making for myself and for everyone a template for creating your web application on a modern stack!
+
+## How to use
+1. Сlick use this template button 
+2. Create a new repository 
+3. Enter the repository name 
+4. Clone your repository to a local machine 
+5. Change the package.json for yourself 
+6. Get high
+
+## My links
 
 <div align="center">
-<img src="./src/assets/images/react-typescript-template.png"/>
+<a href="https://github.com/malinatrash" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</a>
+<a href="https://instagram.com/ashap.fnm" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/malinatrash" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://dribbble.com/malinatrash" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/malinatrash" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </div>
-
-## Welcome to my React template
-
-This template is built with the following technologies:
-
-- Language: **TypeScript**
-- Styling: **TailwindCSS**
-- Testing: **Jest**
-- Linting: **ESLint**
-- Formatting: **Prettier**
-- Bundling: **Webpack**
-- Transpiling: **Babel**
-- Lint Staged: **Husky**
-- **React Refresh**
-- **Development** & **Production** configurations
-- Declarations for **png** and **svg** files
-  
-## Getting Started
-
-Using this template is very simple, follow the following instructions:
-
-1. Fork the repository
-2. Create a new repository and select forked repository as template
-
-Or,
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/divshekhar/react-typescript-template.git
-```
-
-2. Install the dependencies
-
-```bash
-npm install
-```
-
-3. Start the development server
-
-```bash
-npm start
-```
-
-4. Build for production
-
-```bash
-npm run build
-```
-
-## Features
-
-- [x] TypeScript for improved code quality and developer experience
-- [x] TailwindCSS for responsive styling
-- [x] Jest for unit testing
-- [x] ESLint for linting and maintaining code consistency
-- [x] Prettier for automatic code formatting
-- [x] Webpack for bundling and building the application
-- [x] Babel for transpiling modern JavaScript to older versions for better browser compatibility
-- [x] Husky for running lint-staged, which lints and fixes files before committing
-- [x] React Refresh for faster development experience
-- [x] Development & Production configurations for different environment settings
-- [x] Declarations for png and svg for improved developer experience
-
-## Contributing
-
-Please feel free to contribute to this project by submitting issues or pull requests.
-
-## License
-
-This project is licensed under the ISC License.
-
-## Acknowledgements
-
-Thank you for using this template. I hope it helps you build your next project with ease.

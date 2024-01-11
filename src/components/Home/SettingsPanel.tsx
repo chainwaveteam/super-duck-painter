@@ -51,10 +51,6 @@ const Header: FC = () => {
         }
     };
 
-    const activeNumber = {
-        circle: 2,
-        square: 7
-    };
     return (
         <div className='w-[104px] rounded-[9px] settingsPanel flex-none relative py-[50px] flex-col items-center gap-[20px] grid justify-items-stretch'>
             <div className='flex flex-col gap-[10px] justify-center items-center' >

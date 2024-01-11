@@ -15,6 +15,7 @@ const HomeBackground: FC = () => {
                 <div className='w-full overflow-hidden'>
                     <img src={BottomGrey} className='min-w-[1280px] xl:w-full'></img>
                     <img src={BottomLogo} className='absolute bottom-0 left-0 w-1/4'></img>
+                    <div className='absolute bottom-0 left-1/4 font-barlow text-[15px] h-[35px] text-white font-thin'>Built by MegaVoltCorp, All Rights Reserved © 2024</div>
                 </div>
             </div>
         </div>

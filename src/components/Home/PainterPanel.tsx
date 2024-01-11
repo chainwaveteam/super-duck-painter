@@ -10,8 +10,8 @@ const Header: FC = () => {
                 <img src={mainPainterImage}></img>
             </div>
             <div className='absolute bottom-[-40px] right-[50px] flex'>
-                <img src={DownloadImage}></img>
-                <img src={MintImage}></img>
+                <img src={DownloadImage} className='cursor-pointer'></img>
+                <img src={MintImage} className='cursor-pointer'></img>
             </div>
         </div>
     );

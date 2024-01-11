@@ -67,11 +67,11 @@ const Header: FC = () => {
                 })}
             </div>
             <div className='flex justify-center w-full'>
-                <div className='w-[86px] h-[19px] rounded-[4px] customPainter'>
+                <div className='w-[86px] h-[19px] rounded-[4px] customPainter cursor-pointer'>
                 </div>
             </div>
             <div className='flex justify-center w-full'>
-                <img src={Rubbish} className='absolute bottom-[-20px]'></img>
+                <img src={Rubbish} className='absolute bottom-[-20px] cursor-pointer'></img>
             </div>
         </div>
     );

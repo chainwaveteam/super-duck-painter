@@ -8,7 +8,7 @@ const HomeBackground: FC = () => {
     return (
         <div className='absolute w-full z-[-10]'>
             <div className='relative w-full overflow-hidden'>
-                <img src={skyImage} className='min-w-[1280px] xl:w-full h-[110vh]'></img>
+                <img src={skyImage} className='min-w-[1280px] xl:w-full h-[115vh]'></img>
                 <img src={SupDucksHills} className='absolute bottom-0 w-full'></img>
             </div>
             <div className='relative'>

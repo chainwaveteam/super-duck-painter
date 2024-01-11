@@ -1,0 +1,17 @@
+.settingsPanel {
+    border-radius: 9px;
+    border: 2px solid #000;
+    background: linear-gradient(0deg, #E4E1E1 0%, #E4E1E1 100%), #000;
+}
+
+.painterPanel {
+    border-radius: 9px;
+    border: 2px solid #000;
+    background-image: url('../../assets/images/PainterPattern.png');
+}
+
+.customPainter {
+    border-radius: 4px;
+    border: 1px solid #0F0F0F;
+    background-image: url('../../assets/images/PainterPattern.png');
+}
